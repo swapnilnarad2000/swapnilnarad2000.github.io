@@ -4,6 +4,8 @@ import mock2 from "../img/mock2.png"
 import mock3 from "../img/mock3.png"
 import mock4 from "../img/mock4.png"
 import mock5 from "../img/mock5.png"
+import mock6 from "../img/mock6.png"
+import mock7 from "../img/mock7.png"
 
 /* Hi there! Thanks for checking out my portfolio template. Be sure to read the comments to get a better understanding of
 how to make this template work best for you! */
@@ -102,34 +104,46 @@ export const info = {
     ],
     portfolio: [ // This is where your portfolio projects will be detailed
         {
-            title: "Project 1",
-            live: "https://paytonpierce.dev", //this should be a link to the live version of your project, think github pages, netlify, heroku, etc. Or your own domain, if you have it.
-            source: "https://github.com/paytonjewell", // this should be a link to the **repository** of the project, where the code is hosted.
+            title: "Hotel Grand Vardhaman Website",
+            live: "https://hotel-grand-vardhaman.web.app/", //this should be a link to the live version of your project, think github pages, netlify, heroku, etc. Or your own domain, if you have it.
+            source: "https://github.com/swapnilnarad2000/tgv-website", // this should be a link to the **repository** of the project, where the code is hosted.
             image: mock1
         },
         {
-            title: "Project 2",
-            live: "https://paytonpierce.dev",
-            source: "https://github.com/paytonjewell",
+            title: "I Placed Portal",
+            live: "https://swapnilnarad2000.github.io/I-Placed-Portal-MVP/",
+            source: "https://github.com/himanshuhsn/I-Placed-Portal",
             image: mock2
         },
         {
-            title: "Project 3",
-            live: "https://paytonpierce.dev",
-            source: "https://github.com/paytonjewell",
+            title: "Deep Fake Detection",
+            live: "https://github.com/devansh1412/Eye-blink-detection?tab=readme-ov-file",
+            source: "https://github.com/devansh1412/Eye-blink-detection",
             image: mock3
         },
         {
-            title: "Project 4",
-            live: "https://paytonpierce.dev",
-            source: "https://github.com/paytonjewell",
+            title: "Soccer Score Prediction",
+            live: "https://github.com/gagan2005/Soccer_Prediction_And_DataAnalysis",
+            source: "https://github.com/gagan2005/Soccer_Prediction_And_DataAnalysis",
             image: mock4
         },
         {
-            title: "Project 5",
-            live: "https://paytonpierce.dev",
-            source: "https://github.com/paytonjewell",
+            title: "The RGB Color Game",
+            live: "https://swapnilnarad2000.github.io/The_RGB_Game/colorGame.html",
+            source: "https://github.com/swapnilnarad2000/The_RGB_Game",
             image: mock5
+        },
+        {
+            title: "To Do List",
+            live: "https://swapnilnarad2000.github.io/todoList/",
+            source: "https://github.com/swapnilnarad2000/todoList",
+            image: mock6
+        },
+        {
+            title: "Animation of Graph Algorithms",
+            live: "https://swapnilnarad2000.github.io/Animation-of-algorithms/",
+            source: "https://github.com/swapnilnarad2000/Animation-of-algorithms",
+            image: mock7
         }
     ]
 }
