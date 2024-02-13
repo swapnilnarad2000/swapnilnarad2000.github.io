@@ -6,6 +6,7 @@ import mock4 from "../img/mock4.png"
 import mock5 from "../img/mock5.png"
 import mock6 from "../img/mock6.png"
 import mock7 from "../img/mock7.png"
+import mock8 from "../img/mock8.png"
 
 /* Hi there! Thanks for checking out my portfolio template. Be sure to read the comments to get a better understanding of
 how to make this template work best for you! */
@@ -116,6 +117,18 @@ export const info = {
             image: mock2
         },
         {
+            title: "The Chat App",
+            live: "https://chatapp-12e38.firebaseapp.com/home.html",
+            source: "https://bitbucket.org/gagan2005/chat-app/src/master/",
+            image: mock8
+        },
+        {
+            title: "The RGB Color Game",
+            live: "https://swapnilnarad2000.github.io/The_RGB_Game/colorGame.html",
+            source: "https://github.com/swapnilnarad2000/The_RGB_Game",
+            image: mock5
+        },
+        {
             title: "Deep Fake Detection",
             live: "https://github.com/devansh1412/Eye-blink-detection?tab=readme-ov-file",
             source: "https://github.com/devansh1412/Eye-blink-detection",
@@ -128,12 +141,6 @@ export const info = {
             image: mock4
         },
         {
-            title: "The RGB Color Game",
-            live: "https://swapnilnarad2000.github.io/The_RGB_Game/colorGame.html",
-            source: "https://github.com/swapnilnarad2000/The_RGB_Game",
-            image: mock5
-        },
-        {
             title: "To Do List",
             live: "https://swapnilnarad2000.github.io/todoList/",
             source: "https://github.com/swapnilnarad2000/todoList",
@@ -144,6 +151,6 @@ export const info = {
             live: "https://swapnilnarad2000.github.io/Animation-of-algorithms/",
             source: "https://github.com/swapnilnarad2000/Animation-of-algorithms",
             image: mock7
-        }
+        },  
     ]
 }
