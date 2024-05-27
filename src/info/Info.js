@@ -43,7 +43,7 @@ export const info = {
             emoji: '🌎',
             text: 'Based out of India',
             link: ''
-            
+
         },
         {
             emoji: "💼",
@@ -72,16 +72,16 @@ export const info = {
             icon: "fa fa-linkedin",
             label: 'linkedin'
         }
-// Feel free to remove any of these that you don't have. I'll write an FAQ on how to add new ones later, let me know if you have a request for an icon!
-// Just change the links so that they lead to your social profiles.
+        // Feel free to remove any of these that you don't have. I'll write an FAQ on how to add new ones later, let me know if you have a request for an icon!
+        // Just change the links so that they lead to your social profiles.
 
     ],
     bio: "Hello! I'm Swapnil. I'm currently a ServiceNow Developer for LTIMindtree. As part of LTIMindtree I am currently working for Disney for their MyDisneyToday Employee Portal. I studied CompSci at IIT Bhilai, I enjoy spending time with friends, I can surely center a div, Soo you should hire me!",
     skills:
-        {
-            proficientWith: ['javascript', 'C++', 'react', 'github', 'firebase', 'bootstrap5', 'html5', 'css3', 'figma'],
-            exposedTo: ['nodejs', 'python', 'flask', 'angular-js']
-        }
+    {
+        proficientWith: ['Servicenow', 'Servicenow Custom Apps', 'Servicenow ITSM', 'Servicenow CSM', 'Javascript', 'Angular.js', 'React', 'Bootstrap5', 'HTML5', 'CSS3', 'Bootstrap5', 'Github', 'Firebase'],
+        exposedTo: ['Nodejs', 'C++', 'Python', 'Flask', 'AWS']
+    }
     ,
     hobbies: [
         {
@@ -100,8 +100,8 @@ export const info = {
             label: 'cooking/food',
             emoji: '🌶'
         }
-// Same as above, change the emojis to match / relate to your hobbies or interests.
-// You can also remove the emojis if you'd like, I just think they look cute :P
+        // Same as above, change the emojis to match / relate to your hobbies or interests.
+        // You can also remove the emojis if you'd like, I just think they look cute :P
     ],
     portfolio: [ // This is where your portfolio projects will be detailed
         {
@@ -151,6 +151,6 @@ export const info = {
             live: "https://swapnilnarad2000.github.io/Animation-of-algorithms/",
             source: "https://github.com/swapnilnarad2000/Animation-of-algorithms",
             image: mock7
-        },  
+        },
     ]
 }
